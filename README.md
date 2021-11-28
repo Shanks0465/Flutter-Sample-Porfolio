@@ -20,6 +20,8 @@ You can download a copy of all the files in this repository by cloning the
 
 After cloning this project, before proceeding further, Check all dependencies and libraries required. Install the compatible version of [Unity](https://unity.com/) and [Vuforia AR](https://developer.vuforia.com/downloads/sdk).
 
+Download the Additional Packages from the Releases Page for the Linear Regression and Graph Components.
+
 ## License
 
 All source code is made available under a MIT license. You can freely
